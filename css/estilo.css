@@ -249,7 +249,7 @@ body::-webkit-scrollbar-thumb {
     align-items: center;
     font-size: 50px;
     margin-top: 110px;
-    color: #FBFEFD;
+    color: red;
 }
 
 .inicio_subtitulo {
